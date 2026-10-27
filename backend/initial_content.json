@@ -1,0 +1,230 @@
+{
+  "profile": {
+    "name": "Ismail Boussekkine",
+    "role": "Étudiant en développement web Full Stack",
+    "location": "Mohammedia, Maroc",
+    "email": "mrismailboussekkine@gmail.com",
+    "github": "https://github.com/mrismailboussekkine-hub",
+    "linkedin": "https://www.linkedin.com/in/ismail-boussekkine-b6330a408/",
+    "portrait": "/assets/ismail.webp",
+    "cv": "/assets/cv-ismail-boussekkine.pdf",
+    "availability": "À l’écoute : stage, emploi & freelance",
+    "bio": "Étudiant en 2e année de Développement Digital, option Web Full Stack à l’ISTA Mohammedia, j’aime transformer une idée en une interface concrète, puis lui donner vie avec du code. Mes projets explorent le web interactif, les applications de gestion et les outils du quotidien.",
+    "statement": "Curieux par nature. Développeur en devenir."
+  },
+  "projects": [
+    {
+      "slug": "nike-experience",
+      "title": "Nike Experience",
+      "category": "Expérience 3D",
+      "year": "Projet personnel",
+      "tags": [
+        "JavaScript",
+        "Three.js",
+        "HTML / CSS"
+      ],
+      "image": "/assets/nike.webp",
+      "theme": "nike",
+      "intro": "Une silhouette iconique. Une expérience interactive.",
+      "description": "Un concept de boutique autour de la Nike Air Force 1. Le produit devient le centre de la navigation : une scène 3D, des vues à 360° et un catalogue filtrable.",
+      "features": [
+        "Visualisation 3D et rotation du produit",
+        "Catalogue avec filtres et tri",
+        "Présentation des caractéristiques et des coloris"
+      ],
+      "challenge": "Articuler une expérience visuelle riche avec une navigation de boutique lisible.",
+      "approach": "Une scène Three.js dédiée au produit et des sections HTML pour la collection, les caractéristiques et le catalogue.",
+      "status": "Concept personnel indépendant, sans affiliation avec Nike. Les visuels appartiennent à leurs titulaires. Aucun paiement réel présenté.",
+      "github": "",
+      "live": ""
+    },
+    {
+      "slug": "morocco-explorer",
+      "title": "Morocco Explorer",
+      "category": "Interface interactive",
+      "year": "Projet personnel",
+      "tags": [
+        "JavaScript",
+        "HTML / CSS"
+      ],
+      "image": "/assets/morocco.webp",
+      "theme": "morocco",
+      "intro": "Le Maroc, au rythme de vos envies.",
+      "description": "Une interface de découverte touristique : destinations marocaines, préférences de voyage, carte et quiz. Un projet qui relie mon territoire et mon intérêt pour les expériences web.",
+      "features": [
+        "Exploration de destinations selon les centres d’intérêt",
+        "Carte interactive des destinations",
+        "Quiz et interface de préparation de séjour"
+      ],
+      "challenge": "Organiser plusieurs façons de découvrir une destination sans perdre le visiteur.",
+      "approach": "Un parcours progressif : choisir ses envies, explorer la carte, puis préparer son séjour.",
+      "status": "Prototype frontend. Les mentions d’IA et d’analyses en temps réel dans la maquette sont des concepts, pas des services connectés vérifiés.",
+      "github": "",
+      "live": ""
+    },
+    {
+      "slug": "gymquest",
+      "title": "GymQuest",
+      "category": "Application full stack",
+      "year": "Projet personnel",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "SQLite",
+        "JavaScript"
+      ],
+      "image": "",
+      "theme": "gym",
+      "intro": "Chaque séance laisse une trace.",
+      "description": "Une application locale de suivi de musculation : programme, enregistrement des séries, charges et répétitions, repos et historique. Un besoin personnel transformé en outil.",
+      "features": [
+        "Enregistrement des séries, charges et répétitions",
+        "Minuteur de repos et reprise de séance",
+        "Historique persistant et correction des séances"
+      ],
+      "challenge": "Conserver les résultats entre les sessions et distinguer une séance partielle d’une séance terminée.",
+      "approach": "Une API FastAPI, une base SQLite et des validations pour les séries et les modifications concurrentes.",
+      "status": "Application locale mono-utilisateur. Pas de comptes publics ni de déploiement cloud dans la version fournie.",
+      "github": "",
+      "live": ""
+    },
+    {
+      "slug": "bibliotheque",
+      "title": "Bibliothèque",
+      "category": "Application full stack",
+      "year": "Projet de formation",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "SQL",
+        "Blade"
+      ],
+      "image": "",
+      "theme": "library",
+      "intro": "Des livres, des auteurs, une gestion claire.",
+      "description": "Une application de gestion de bibliothèque réalisée avec Laravel. Elle regroupe les livres, leurs auteurs, la recherche et une vue statistique.",
+      "features": [
+        "Création, consultation, modification et suppression de livres et auteurs",
+        "Recherche de livres",
+        "Statistiques sur les stocks, les prix et les auteurs"
+      ],
+      "challenge": "Relier les données des livres et des auteurs dans une interface de gestion cohérente.",
+      "approach": "Des modèles Laravel, des contrôleurs et des vues Blade pour organiser les opérations et les statistiques.",
+      "status": "Projet de formation, à exécuter dans son environnement Laravel.",
+      "github": "",
+      "live": ""
+    },
+    {
+      "slug": "isogym",
+      "title": "ISOGYM",
+      "category": "Site web",
+      "year": "Projet de formation",
+      "tags": [
+        "PHP",
+        "HTML / CSS"
+      ],
+      "image": "",
+      "theme": "iso",
+      "intro": "Un univers web dédié au sport.",
+      "description": "Un site sportif structuré autour de plusieurs pages : présentation, programmes, nutrition et coachs.",
+      "features": [
+        "Navigation entre les rubriques sportives",
+        "Pages programmes et nutrition",
+        "Présentation de coachs"
+      ],
+      "challenge": "Construire un site cohérent à travers plusieurs pages.",
+      "approach": "Une structure PHP avec des pages thématiques et une navigation partagée.",
+      "status": "Projet de présentation. Les contenus sportifs ne constituent pas un service de coaching actif.",
+      "github": "",
+      "live": ""
+    }
+  ],
+  "skills": [
+    {
+      "title": "Interfaces & interactions",
+      "items": [
+        "HTML / CSS",
+        "JavaScript",
+        "React · en apprentissage",
+        "Three.js",
+        "Responsive design"
+      ]
+    },
+    {
+      "title": "Logique & données",
+      "items": [
+        "PHP",
+        "Laravel",
+        "Python",
+        "FastAPI",
+        "SQL / SQLite"
+      ]
+    },
+    {
+      "title": "Méthode & collaboration",
+      "items": [
+        "Git / GitHub",
+        "Travail en équipe",
+        "Organisation",
+        "Outils IA",
+        "Résolution de problèmes"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Google AI Essentials",
+      "issuer": "Google · Coursera",
+      "year": "2026",
+      "file": "/assets/google-ai.pdf",
+      "verify": "https://coursera.org/verify/specialization/1NXVMSYG4TIT"
+    },
+    {
+      "title": "Introduction to Front-End Development",
+      "issuer": "Meta · Coursera",
+      "year": "2026",
+      "file": "/assets/meta-frontend.pdf",
+      "verify": "https://coursera.org/verify/0595ZF8HU4YJ"
+    },
+    {
+      "title": "Python Essentials 1",
+      "issuer": "Cisco Networking Academy · ISTA Bouznika",
+      "year": "2026",
+      "file": "/assets/python.pdf",
+      "verify": ""
+    },
+    {
+      "title": "Introduction to Microsoft SQL Server Databases",
+      "issuer": "Edraak",
+      "year": "2026",
+      "file": "/assets/sql.pdf",
+      "verify": ""
+    }
+  ],
+  "timeline": [
+    {
+      "date": "En cours · 2027",
+      "title": "Développement Digital — Web Full Stack",
+      "place": "OFPPT · ISTA Mohammedia",
+      "description": "Deuxième année. Fin de formation prévue en juin 2027."
+    },
+    {
+      "date": "2025",
+      "title": "Coordination d’activités bénévoles",
+      "place": "Faculté des Lettres de Mohammedia",
+      "description": "Organisation de sorties, répartition des tâches et participation à des actions associatives."
+    },
+    {
+      "date": "2024 · 3 mois",
+      "title": "Aide technique",
+      "place": "KM0",
+      "description": "Assemblage et installation d’équipements mécaniques ; appui aux travaux de filtration de piscines."
+    },
+    {
+      "date": "2024",
+      "title": "Baccalauréat — Sciences physiques",
+      "place": "Formation secondaire",
+      "description": "Une première base scientifique, prolongée aujourd’hui par le développement web."
+    }
+  ]
+}
